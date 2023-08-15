@@ -48,3 +48,7 @@ cd hello-world -->
 npm run build
 npm install netlify-cli -g
 netlify deploy
+
+## Resources (REDUX)
+
+# https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/
